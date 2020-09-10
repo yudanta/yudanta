@@ -3,7 +3,7 @@
 
 more or less a full-stack developer with more than 6 years of experiences in software engineering. Mostly speak with Python both for developing REST-Full application and doing research, including: data processing, machine learning and everything in between. Also, I am a serious Natural Language Processing engineer who endlessly trying to develop better and more robust Indonesian’s language model. 
 
-🔭 I’m currently looking for new opportunity in machine learning, natural language processing and backend engineering. 
+🔭 I’m currently looking for new opportunity in machine learning, natural language processing and backend engineering. <br>
 📫 Ping me at @akuyudanta (Twitter). 
 
 <!--
