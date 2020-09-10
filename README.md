@@ -1,7 +1,29 @@
-### Hi there 👋
-### Yudanta
+### Hi there, I am Yudanta 👋
+## Backend Developer 👨‍💻 x NLP Engineer 🤖
 
-more or less a full-stack developer with more than 6 years of experiences in software engineering. Mostly speak with Python both for developing REST-Full application and doing research, including: data processing, machine learning and everything in between. Also, I am a serious Natural Language Processing engineer who endlessly trying to develop better and more robust Indonesian’s language model. 
+[![](https://img.shields.io/badge/LinkedIn-yudanta-blue)](http://linkedin.com/in/yudanta/)
+[![](https://img.shields.io/badge/Twitter-akuyudanta-blue)](https://twitter.com/akuyudanta)
+
+A full-stack developer with more than 6 years of experiences in software engineering. Mostly speak with Python both for developing REST-Full application and doing research, including: data processing, machine learning and everything in between. 
+
+Also, I am a serious Natural Language Processing engineer who endlessly trying to develop better and more robust Indonesian’s language model. 🇮🇩
+
+```javascript
+const yudanta = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["backend dev", "machine learning", "nlp", "tech"],
+    technologies:{
+        backEnd: ["python", "elixir"],
+        fronEnd: ["nope"],
+        mlStacks: ["Tensorflow", "Keras", "Spacy", "ScikitLearn"],
+        database: ["MongoDB","MySQL","Neo4j", "Elasticsearch", "Redis", "RabbitMQ"],
+        dataStacks: ["spark"],
+        devOps: ["Git", "Jenkins", "Docker", "K8S"],
+        misc: ["TF-Serving", "PyPy3"]
+    },
+    architecture: ["PubSub", "microservices", "event-driven", "MLPipeline"],
+}
+```
 
 🔭 I’m currently looking for new opportunity in machine learning, natural language processing and backend engineering. <br>
 📫 Ping me at @akuyudanta (Twitter). 
