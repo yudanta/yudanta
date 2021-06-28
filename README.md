@@ -13,7 +13,7 @@ const yudanta = {
     pronouns: "He" | "Him",
     askMeAbout: ["backend dev", "machine learning", "nlp", "tech"],
     technologies:{
-        backEnd: ["python", "elixir"],
+        backEnd: ["python", "flask", "fastapi"],
         fronEnd: ["nope"],
         mlStacks: ["Tensorflow", "Keras", "Spacy", "ScikitLearn"],
         database: ["MongoDB","MySQL","Neo4j", "Elasticsearch", "Redis", "RabbitMQ"],
