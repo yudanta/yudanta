@@ -25,6 +25,8 @@ const yudanta = {
 }
 ```
 
+Currently I and my Friend (repapheng) are developing simple Indonesian NLP API backend as our weekend project under SemeruAI (our lab). Current progress can be seen here: https://fuse-id-nlp.herokuapp.com/docs 
+
 🔭 I’m currently looking for new opportunity in machine learning, natural language processing and backend engineering. <br>
 📫 Ping me at @akuyudanta (Twitter). 
 
