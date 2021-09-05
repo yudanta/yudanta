@@ -6,7 +6,7 @@
 
 A full-stack developer with more than 6 years of experiences in software engineering. Mostly speak with Python both for developing REST-Full application and doing research, including: data processing, machine learning and everything in between. 
 
-Also, I am a serious Natural Language Processing engineer who endlessly trying to develop better and more robust Indonesian’s language model. 🇮🇩
+Also, I am a Natural Language Processing engineer who endlessly trying to develop better and more robust Indonesian’s language model. 🇮🇩
 
 ```javascript
 const yudanta = {
