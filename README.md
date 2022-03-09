@@ -1,5 +1,5 @@
-### Hi there, I am Yudanta 👋
-## Backend Developer 👨‍💻 x NLP Engineer 🤖❤️👾
+## Hi there, my name is Yudanta 👋
+### Backend Developer 👨‍💻 x NLP Engineer 🤖❤️👾
 
 [![](https://img.shields.io/badge/LinkedIn-yudanta-blue)](http://linkedin.com/in/yudanta/)
 [![](https://img.shields.io/badge/Twitter-akuyudanta-blue)](https://twitter.com/akuyudanta)
