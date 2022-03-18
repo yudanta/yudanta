@@ -4,9 +4,7 @@
 [![](https://img.shields.io/badge/LinkedIn-yudanta-blue)](http://linkedin.com/in/yudanta/)
 [![](https://img.shields.io/badge/Twitter-akuyudanta-blue)](https://twitter.com/akuyudanta)
 
-A full-stack developer with more than 7 years of experiences in software engineering. Mostly speaks Python both for developing REST-Full application and doing research, including: data processing, machine learning and everything in between. 
-
-Also, I am a Natural Language Processing engineer who endlessly trying to develop better and more robust Indonesian’s language model. 🇮🇩
+A full-stack developer with more than 7 years of experiences in software engineering and currently living as registered alien 👽 in Pittsburgh, PA 🇺🇸. Mostly speaks Python both for developing REST-Full application and doing research, including: data processing, machine learning and everything in between. Also, I am a Natural Language Processing engineer who endlessly trying to develop better and more robust Indonesian’s language model. 🇮🇩
 
 ```javascript
 const yudanta = {
@@ -27,7 +25,7 @@ const yudanta = {
 
 Currently I and my Friend (repapheng) are developing simple Indonesian NLP API backend as our weekend project under SemeruAI (our lab). Current progress can be seen here: https://fuse-id-nlp.herokuapp.com/docs 
 
-🔭 I’m currently looking for new opportunity in machine learning, natural language processing, data engineering and backend engineering. <br>
+🔭 I’m currently looking for new opportunity in machine learning, natural language processing, data engineering and backend engineering role. <br>
 📫 Ping me at @akuyudanta (Twitter). 
 
 <!--
