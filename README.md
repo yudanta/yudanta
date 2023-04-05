@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/LinkedIn-yudanta-blue)](http://linkedin.com/in/yudanta/)
 [![](https://img.shields.io/badge/Twitter-akuyudanta-blue)](https://twitter.com/akuyudanta)
 
-A full-stack developer with more than 7 years of experiences in software engineering and currently living as registered alien 👽 in Pittsburgh, PA 🇺🇸. Mostly speaks Python both for developing REST-Full application and doing research, including: data processing, machine learning and everything in between. Also, I am a Natural Language Processing engineer who endlessly trying to develop better and more robust Indonesian’s language model. 🇮🇩
+I am a full-stack developer with over 7 years of experience in software engineering. Currently, I live as a registered alien 👽 in Pittsburgh, PA 🇺🇸. I mostly work with Python for developing RESTful applications and conducting research, which includes data processing, machine learning, and everything in between. Additionally, I am a Natural Language Processing engineer who is continuously trying to develop a better and more robust Indonesian language model 🇮🇩.
 
 ```javascript
 const yudanta = {
@@ -13,7 +13,7 @@ const yudanta = {
     technologies:{
         backEnd: ["python", "fastapi", "flask"],
         fronEnd: ["Streamlit", "nope"],
-        mlStacks: ["Tensorflow", "Keras", "MLFlow", "Spacy", "ScikitLearn"],
+        mlStacks: ["Tensorflow", "PyTorch", "Keras", "MLFlow", "Spacy", "ScikitLearn", "HuggingFace"],
         database: ["MongoDB","MySQL","Neo4j", "Elasticsearch", "Redis", "RabbitMQ"],
         dataStacks: ["spark", "dask", "airflow"],
         devOps: ["Linux/Unix", "Git", "Jenkins", "Docker", "K8S"],
